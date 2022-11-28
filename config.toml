@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313'
+baseURL = 'https://edphil10.github.io/blog/ '
 languageCode = 'en-us'
 
 # website title
